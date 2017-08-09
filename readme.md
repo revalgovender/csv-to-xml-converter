@@ -1,4 +1,4 @@
-#CSV to XML Converter
+# CSV to XML Converter
 
 > This project is a CLI application for converting CSV's to XML documents. The application has been developed using [Laravel 5.4](https://laravel.com/).
 
@@ -12,7 +12,7 @@ I created this project to demonstrate the following skills:
 6. Ability to setup and use the Codeception testing framework.
 7. Ability to create custom validators in Laravel.
 
-##Potential Improvements
+## Potential Improvements
 
 1. Create Custom Exceptions to handle errors.
 2. Improve docblocks to get ready for automatic doc generation.
